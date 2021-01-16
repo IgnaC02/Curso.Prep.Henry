@@ -1,0 +1,5 @@
+for = es un bucle que sirve para hacer tareas repetitivas. 
+&&, ||, ! = son operadores logicos, que arrojan resultados booleanos(T/F).
+&& si los 2 son verdaderos = true, si no false.
+|| si los 2 son falsos = false, si no true.
+!  da false si su único operando puede convertirse a true, si no true.
