@@ -1,0 +1,5 @@
+Variables = son "etiquetas" que se usan para guardar informacion y datos.
+Strings = es una cadena de texto que va entre ''.
+Funciones (argumentos, return) = son ordenes que le damos a trevez de los argumentos. Return es lo que nosotros elegimos que nos devuelva la funcion.
+Declaraciones if = Es una forma de comparar y que nos arroje de resultado true o false.
+Valores booleanos (true, false) = Los valores booleanos tienen 2 opciones, o verdadero o falso.
