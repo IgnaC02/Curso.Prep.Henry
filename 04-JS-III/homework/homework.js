@@ -3,6 +3,8 @@
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un array
   // Tu código:
+  var arreglo1 = [1 , 2 , 3 , 0];
+  return arreglo1 [2];
 }
 
 
@@ -15,6 +17,8 @@ function devolverUltimoElemento(array) {
 function obtenerLargoDelArray(array) {
   // Devuelve el largo de un array
   // Tu código:
+  array = [0 , 1 , 2 ];
+  
 }
 
 
